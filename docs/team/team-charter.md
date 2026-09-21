@@ -40,6 +40,7 @@ CampusConnect is a student support request and workflow management system design
 * **Core Working Hours:** We assign tasks, complete our task asynchronously and meet on Monday evenings to discuss.
 * **Expected Response Time:** Within **12 hours** on weekdays, and **4 hours** on weekends or close to project milestones.
 * **Absence Policy:** If a member cannot complete a task due to illness or exams, they must notify the group at least **24 hours** in advance so work can be reallocated.
+* **Requests for Alternative Meeting** If a member prefers to meet at the designated time with something other than Zoom for the week, communicating through Text as a "heads up" Will be fine, as long as everyone can agree on the temporary updated form of communication.
 
 ---
 
