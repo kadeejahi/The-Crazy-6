@@ -1,7 +1,7 @@
 # Project Estimates
 
 | Task | Estimated Time | 
-
+| --- | --- |
 | Project setup and planning | 2-3 hours |
 | Student request submission | 4-6 hours |
 | Request management | 4-6 hours |
