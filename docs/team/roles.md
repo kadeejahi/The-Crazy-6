@@ -115,7 +115,7 @@ The **Evidence** column should reference a repository-visible confirmation made 
 | Student Name | Acknowledged | Evidence |
 |---|---|---|
 | Sam Stewart | Yes | PR #1 |
-| Camille Hart | Yes |  |
+| Camille Hart | Yes | chart9-patch-2 |
 | Dathal Guzman | Yes |PR #4|
 | Kadeeja Labaran | Yes| Commit 7c79b96|
 | Dean Ahmeti  | Yes|  |
