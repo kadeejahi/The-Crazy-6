@@ -1,11 +1,18 @@
-# Estimates
+# Project Estimates
 
-## Purpose
+| Task | Estimated Time | 
 
-Document engineering evidence for this area.
+| Project setup and planning | 2-3 hours |
+| Student request submission | 4-6 hours |
+| Request management | 4-6 hours |
+| Status and update tracking | 3-5 hours |
+| Role-based access | 3-5 hours | 
+| testing and bug fixes | 4-6 hours | 
+| Documentation and final review | 2-3 hours | 
 
-## Expectations
+Estimates may change as development progresses.
 
-- Keep current
-- Use professional engineering language
-- Link related evidence
+
+
+
+

@@ -1,15 +1,7 @@
 # Risk Register
 
-## Purpose
-
-Track meaningful project risks, ownership, mitigation actions, and current status.
-
-| ID | Risk | Likelihood | Impact | Mitigation | Owner | Status |
-|---|---|---|---|---|---|---|
-| R-001 |  |  |  |  |  |  |
-
-## Expectations
-
-- Keep current
-- Use professional engineering language
-- Link related evidence
+| Risk | Likelihood |  Impact | Mitigation | Owner | Status |
+| --- | --- | --- | --- | --- | --- | 
+| Features take longer than expected | Medium | High | Prioritize core MVP features and adjust tasks when needed |
+| Bugs during integration | High | High | Test features before merging into main | 
+ 

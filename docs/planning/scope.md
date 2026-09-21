@@ -1,11 +1,15 @@
-# Scope
 
-## Purpose
+# CampusConnect - Project Scope
 
-Document engineering evidence for this area.
 
-## Expectations
+## Overview: The System will allow students to submit support requests and allow support reviewrs to manage, track, and resolve those request.
 
-- Keep current
-- Use professional engineering language
-- Link related evidence
+## In Scope
+
+- Students request submission
+- Request management
+- Request status tracking
+- Communication and updates
+- Resolution tracking
+- Role based access
+- Request history and visibility
